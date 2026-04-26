@@ -2,7 +2,7 @@
 
 ## Product Link / Demo
 - **GitHub Repository:** [https://github.com/yjsong337/ESG-Analysis]
-- **Demo Video:** [paste your demo video link here]
+- **Demo Video:** [https://video.xjtlu.edu.cn/Mediasite/Channel/556fdc2c32b340f58d12b8179e0284435f/headless/watch/fcb418184e484fe9a67d0a036e89ed521d]
 - **Live App:** [https://esg-analysis-4l6zrnssdsc3gxsmselgsb.streamlit.app/]
 
 ## 1. Problem and User
