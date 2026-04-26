@@ -1,8 +1,9 @@
 # ESG and Revenue Analysis App
 
 ## Product Link / Demo
-- **GitHub Repository:** [https://github.com/yjsong337/ESG-Analysis)]
+- **GitHub Repository:** [https://github.com/yjsong337/ESG-Analysis]
 - **Demo Video:** [paste your demo video link here]
+  - **Live App:** [https://esg-analysis-4l6zrnssdsc3gxsmselgsb.streamlit.app/]
 
 ## 1. Problem and User
 This project explores how ESG indicators may be associated with company revenue through an interactive Streamlit app.  
